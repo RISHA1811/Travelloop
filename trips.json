@@ -1,0 +1,81 @@
+[
+  {
+    "id": "8f9af715-5ef6-4e75-abdb-6acd4091861f",
+    "shareId": "5e0961c3-9410-4f61-84cc-0b9cdf51eb6d",
+    "userId": "4b7a3335-5568-4a4f-b743-9825ecfee2ef",
+    "name": "Delhi",
+    "startDate": "2026-05-13",
+    "endDate": "2026-05-16",
+    "description": "",
+    "itinerary": [],
+    "budget": [],
+    "packing": [],
+    "notes": "",
+    "createdAt": "2026-05-10T04:43:03.071Z"
+  },
+  {
+    "id": "d5fd9ffd-60cb-43d8-a8bb-d50bef2106a7",
+    "shareId": "7e25df63-18d0-40b4-b19d-a1531a804da9",
+    "userId": "f7f2b88d-68ac-4b89-bc10-45b07a2fd108",
+    "name": "Delhi",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-16",
+    "description": "",
+    "itinerary": [],
+    "budget": [
+      {
+        "item": "Transport",
+        "cost": 50000,
+        "category": "Transport"
+      }
+    ],
+    "packing": [],
+    "notes": "",
+    "createdAt": "2026-05-10T05:13:00.766Z"
+  },
+  {
+    "id": "e05ab14b-e7e8-49f3-ba96-7bd0fc17cc61",
+    "shareId": "e2692345-b767-4ad8-8008-6efec544f061",
+    "userId": "947f94ec-6f44-4c70-b2b6-15aa16ab377b",
+    "name": "Delhi",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-30",
+    "description": "",
+    "itinerary": [],
+    "budget": [],
+    "packing": [],
+    "notes": "",
+    "createdAt": "2026-05-10T05:34:32.919Z",
+    "journal": []
+  },
+  {
+    "id": "09bd7894-36f5-4df2-ae33-541636ca9ba2",
+    "shareId": "5ecf5863-0a80-4b76-8afe-6a5babeb9866",
+    "userId": "f7f2b88d-68ac-4b89-bc10-45b07a2fd108",
+    "name": "Mumbai",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-24",
+    "description": "",
+    "itinerary": [],
+    "budget": [],
+    "packing": [],
+    "notes": "",
+    "createdAt": "2026-05-10T06:15:41.769Z"
+  },
+  {
+    "id": "1f32d2fb-270c-4543-9fb8-23da6a4f9484",
+    "shareId": "091f4dce-1431-4bcd-9f63-c21262942153",
+    "userId": "f7f2b88d-68ac-4b89-bc10-45b07a2fd108",
+    "name": "Bihar ",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-20",
+    "description": "",
+    "coverEmoji": "✈️",
+    "itinerary": [],
+    "budget": [],
+    "packing": [],
+    "collaborators": [],
+    "notes": "",
+    "createdAt": "2026-05-10T08:02:44.110Z"
+  }
+]
